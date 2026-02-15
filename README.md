@@ -1,6 +1,6 @@
 """
 Simulación y análisis de señales utilizando la Transformada de Fourier
-Autor: [Tu Nombre]
+Autor: Mario
 Descripción:
 Este programa genera señales básicas (senoidal, pulso rectangular y escalón),
 calcula su Transformada de Fourier usando FFT y grafica la señal en el dominio
