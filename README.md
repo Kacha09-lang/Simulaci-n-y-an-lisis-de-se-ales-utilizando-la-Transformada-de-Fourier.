@@ -1,2 +1,19 @@
-# Simulaci-n-y-an-lisis-de-se-ales-utilizando-la-Transformada-de-Fourier.
-Este programa genera señales básicas (senoidal, pulso rectangular y escalón), calcula su Transformada de Fourier usando FFT y grafica la señal en el dominio del tiempo y frecuencia (magnitud y fase).
+# Simulación y Análisis de Señales con la Transformada de Fourier
+
+## Descripción
+Este proyecto implementa la Transformada Rápida de Fourier (FFT) en Python para analizar señales en el dominio del tiempo y frecuencia.
+
+## Señales Analizadas
+- Señal senoidal
+- Pulso rectangular
+- Función escalón
+- Suma de señales (propiedad de linealidad)
+- Señal desplazada en el tiempo
+- Señal con frecuencia escalada
+
+## Librerías utilizadas
+- NumPy
+- Matplotlib
+
+## Cómo ejecutar el programa
+1. Instalar dependencias:
